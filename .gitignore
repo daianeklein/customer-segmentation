@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#dataset
+*.csv
+
+#book
+Customer-Relationship-Management.pdf
