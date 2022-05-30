@@ -137,3 +137,7 @@ Customer-Relationship-Management.pdf
 
 #folder py
 python/
+
+#img
+*.jpg
+*.png
